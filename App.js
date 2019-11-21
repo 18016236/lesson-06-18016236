@@ -49,16 +49,16 @@ const App = () => {
 
         <View style={{alignItems: 'center'}}>
           <Image
-            source={require('./src/img/orangutan.jpg')}
-            style={{
-              width: 375,
-              height: 200,
-              marginTop: 20,
-              alignItems: 'center',
+              source={require('./src/img/orangutan.jpg')}
+              style={{
+                width: 375,
+                height: 200,
+                marginTop: 20,
+                alignItems: 'center',
             }}
           />
 
-          <View style={styles.section}>
+          <View style={styles.Section}>
             <Button
               title={'ANIMALS'}
               color="#bf4216"
