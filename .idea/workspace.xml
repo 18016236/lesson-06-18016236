@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="121f5714-2e37-4b7e-a5f5-7cf22c0c1973" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/systeminfo/AndroidInfoModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/systeminfo/AndroidInfoModule.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,8 +74,16 @@
       <option name="presentableId" value="Default" />
       <updated>1574228464655</updated>
       <workItem from="1574228466289" duration="452000" />
-      <workItem from="1574307437523" duration="9737000" />
+      <workItem from="1574307437523" duration="11284000" />
     </task>
+    <task id="LOCAL-00001" summary="whatsup">
+      <created>1574319729342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574319729342</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +99,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="whatsup" />
+    <option name="LAST_COMMIT_MESSAGE" value="whatsup" />
   </component>
 </project>
